@@ -20,7 +20,7 @@ def set_background(image_url):
     """, unsafe_allow_html=True)
 
 # Set background image
-set_background("https://images.unsplash.com/photo-1503264116251-35a269479413")
+set_background("https://upload.wikimedia.org/wikipedia/he/5/52/Hapoel_Tel_Aviv_Logo.png")
 
 st.title("🎧 Fan DJ - Sync Songs with Your Team")
 
