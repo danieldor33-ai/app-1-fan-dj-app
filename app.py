@@ -4,7 +4,7 @@ import datetime
 import time
 
 # Backend URL - replace with actual deployed backend URL
-BACKEND_URL = "https://fan-dj-backend.example.com"
+BACKEND_URL = "https://app-1b-fan-dj-backend.onrender.com"
 
 st.set_page_config(page_title="Fan DJ", layout="centered")
 
