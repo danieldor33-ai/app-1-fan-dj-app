@@ -20,7 +20,7 @@ def set_background(image_url):
     """, unsafe_allow_html=True)
 
 # Set background image
-set_background("https://photos.google.com/photo/AF1QipNulOwQwIttjQLEil-mT0xSsazsWoBMJ6GEH1Y-")
+set_background("https://ibb.co/jxtJPqf")
 
 st.title("🎧 Fan DJ - Sync Songs with Your Team")
 
